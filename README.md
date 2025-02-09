@@ -1,4 +1,3 @@
-```markdown
 # Maximum Average Pass Ratio - LeetCode 1792
 
 Este repositório contém uma solução em C para o problema **1792. Maximum Average Pass Ratio** do LeetCode. O objetivo é maximizar a média das taxas de aprovação de uma escola, adicionando um número limitado de alunos extras a determinadas turmas.
@@ -10,14 +9,10 @@ Dadas `n` turmas, cada uma com um número de alunos que passaram e o número tot
 ### Exemplo
 
 **Entrada:**
-```
 classes = [[1, 2], [3, 5], [2, 2]], extraStudents = 2
-```
 
 **Saída:**
-```
 0.78333
-```
 
 **Explicação:**
 - Adicionando um aluno extra à primeira turma: `[2, 3]` → taxa de aprovação = `2/3 ≈ 0.66667`.
